@@ -12,6 +12,6 @@
         'views/account_type_menu.xml'
     ],
     'images': ['static/description/banner.png'],
-     'price':10,
-    'currency':'USD'
+    #  'price':10,
+    # 'currency':'USD'
 }
